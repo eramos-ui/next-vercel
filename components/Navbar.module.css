@@ -1,0 +1,6 @@
+
+/* para los Link del nav los link son traducidos a <a></<> por eso la 'a' */
+/* el menu-container en vez de menu simple es por práctica del css */
+.menu-container a { 
+    margin-right: 10px;
+}
